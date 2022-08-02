@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on frontend projects in technologies from JS environment
+- 🌱 I’m currently learning Elixir and functional programming
+- 👯 I’m looking to collaborate on open source projects based in JS technologies
