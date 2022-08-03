@@ -1,19 +1,12 @@
-### Hi there 👋
+![banner](https://i.postimg.cc/cC64wKTT/readme-banner.jpg "banner")
+## Hi there! I´m Sebastian
+#### Full Stack Developer 🔧
 
-<!--
-**S-alfaro/S-alfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m currently working on projects with technologies from JS ecosystem like React, Next, Node, TypeScript, and useful frontend and backend tools (Redux, Express, Sequelize and others). 
+I´have experience in DB using PostreSQL .
 
-Here are some ideas to get you started:
+##### About Me:
 
-- 🔭 I’m currently working on frontend projects in technologies from JS environment
-- 🌱 I’m currently learning Elixir and functional programming
-- 👯 I’m looking to collaborate on open source projects based in JS technologies
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on frontend projects in technologies from JS environment
-- 🌱 I’m currently learning Elixir and functional programming
-- 👯 I’m looking to collaborate on open source projects based in JS technologies
+- 🤓Currently learning **Elixir** and **Functional Programming**
+- 😊Looking to collaborate on open source projects based on JS technologies
+- 📫 How to reach me oswaldobenal12@gmail.com
