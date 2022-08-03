@@ -9,4 +9,4 @@ I´have experience in DB using PostreSQL .
 
 - 🤓Currently learning **Elixir** and **Functional Programming**
 - 😊Looking to collaborate on open source projects based on JS technologies
-- 📫 How to reach me oswaldobenal12@gmail.com
+- 📫 How to reach me sebastianealfaro@gmail.com
